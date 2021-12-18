@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+
+* {
+	color: #DD4A48;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Oxygen', sans-serif;
+}
+
+nav {
+	width: 100%;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 10px;
+	background: #FFFD95;
+	color: white;
+	font-size: 30px;
+}
+
+body {
+	background: #3F3351;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+footer {
+	width: 100%;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	background: #1E5128;
+	font-size: 20px;
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+
+}
+
+.ft p {
+	color: #FBFFE2;
+}
+
+.collapsible {
+  background-color: #7CD1B8;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #3E8E7E;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color:#DFD3C3;
+}
