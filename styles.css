@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
 
 * {
-	color: #DD4A48;
 	padding: 0px;
 	margin: 0px;
 	font-family: 'Oxygen', sans-serif;
@@ -13,14 +12,14 @@ nav {
 	padding-top: 0px;
 	padding-bottom: 10px;
 	background: #FFFD95;
-	color: white;
+	color: #DD4A48;
 	font-size: 30px;
 }
 
 body {
 	background: #3F3351;
-	padding-top: 0px;
-	padding-bottom: 0px;
+	padding-top 0px;
+	padding-bottom 0px;
 }
 
 footer {
@@ -60,5 +59,12 @@ footer {
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color:#DFD3C3;
+  background-color: #DEEDF0;
+}
+
+ul{
+	list-style: square inside url("https://i.ibb.co/VwTYLy3/Png-Item-4236587-1.png");
+	display: table;
+	margin: 0 auto;
+	color: #191919;
 }
