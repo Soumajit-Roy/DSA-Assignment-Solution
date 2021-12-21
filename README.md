@@ -13,8 +13,13 @@ This is the Assignment Solutions Repository (Java)☕ of [`JAVA-DSA-BOOTCAMP`](h
 <a href="https://github.com/Soumajit-Roy"><img alt="by me" src="https://i.ibb.co/MB6mvwt/by-soumajit-roy.png"></a>
 
 </div>
+<div align="center">
 
->## 1. Flowchart
+[`Syllabus`](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/SYLLABUS.md)
+
+</div>
+
+>## 1. Flow Of Program
 <details>
   <summary>👇</summary>
   
