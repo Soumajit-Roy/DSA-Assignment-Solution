@@ -1,86 +1,94 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
 
-* {
-	padding: 0px;
-	margin: 0px;
+html {
+	background-color: #F7F7F7;
 	font-family: 'Oxygen', sans-serif;
 }
 
-nav {
-	width: 100%;
-	text-align: center;
-	padding-top: 0px;
-	padding-bottom: 10px;
-	background: #FFFD95;
-	color: #DD4A48;
-	font-size: 30px;
-}
 
 body {
-	background: #3F3351;
-	padding-top: 0px;
-	padding-bottom: 0px;
+	margin:0;
+	
+}
+
+.nav {
+  overflow: hidden;
+  text-align: center;
+  color: #FF5959;
+  font-size: 19px;
+  background-color: #FFF1BD;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.main {
+  padding: 16px;
+  margin-top: 45px;
+  height: auto; /* Used in this example to enable scrolling */
 }
 
 footer {
 	width: 100%;
 	text-align: center;
-	padding-top: 0px;
-	padding-bottom: 0px;
 	background: #1E5128;
 	font-size: 20px;
 	position: fixed;
 	left: 0px;
-	bottom: 0px;
-
+	bottom: 0px
 }
 
 .ft p {
 	color: #FBFFE2;
 }
 
-.collapsible {
-  background-color: #7CD1B8;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: center;
-  outline: none;
-  font-size: 15px;
+.content-wrapper {
+	background-color: #CDDEFF;
+	max-width: auto;
+	text-align: center;
+	width: 60%;
+	padding: 10px 30px 10px;
+	margin: 10px auto;
+	border-radius: 5px;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
 }
 
-.active, .collapsible:hover {
-  background-color: #3E8E7E;
+.answer {
+	padding: 0 0px;
 }
 
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #DEEDF0;
+details {
+	padding: 10px 0;
 }
 
-li {
-	color:#fff;
-	list-style:none;
-	position: relative;
-	padding-left:20px;
-	line-height: 2;
-	font-size:18px;
-  }
-  
-  li:before {
-	font-family:FontAwesome;
-	position: absolute;
-	font-style: normal;
-    font-weight: normal;
-	left: 0;
-	color:#318ca0;
-	font-size:18px;
-	content:"\f14a";
-  }
-  li:hover:before {
-	color:#fff;
-  }
+details[open] {
+	summary {
+		color: #F9276F;
+
+		&:before {
+			content: '[-] ';
+		}
+	}
+}
+
+summary {
+	cursor: pointer;
+	-webkit-user-select: none;
+
+	&::-webkit-details-marker {
+		display: none;
+	}
+
+	&:before {
+		content: '[+] ';
+	}
+
+	&:hover {
+		color: #F9276F;
+	}
+
+	&:focus {
+		outline: none;
+	}
+}
