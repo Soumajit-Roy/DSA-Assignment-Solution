@@ -30,3 +30,19 @@ This is the Assignment Solutions Repository (Java)☕ of [`JAVA-DSA-BOOTCAMP`](h
   4. [Q4 Solution](Flow%20Of%20Program/Q4%20Solution.md)
   5. [Q5 Solution](Flow%20Of%20Program/Q5%20Solution.md)
 </details>
+
+>### 2. First Java
+<details>
+  <summary>👇</summary>
+  
+  0. [Questions](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/00%20Questions.md)
+  1. [Q1 Solution](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/Q1_Solution.java)
+  2. [Q2 Solution](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/Q2_Solution.java)
+  3. [Q3 Solution](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/Q3_Solution.java)
+  4. [Q4 Solution](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/Q4_Solution.java)
+  5. [Q5 Solution](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/Q5_Solution.java)
+  6. [Q6 Solution](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/Q6_Solution.java)
+  7. [Q7 Solution](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/Q7_Solution.java)
+  8. [Q8 Solution](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/Q8_Solution.java)
+  9. [Q9 Solution](https://github.com/Soumajit-Roy/DSA-Assignment-Solution/blob/main/01%20First%20Java/Q9_Solution.java)
+</details>
