@@ -7,33 +7,55 @@ html {
 
 
 body {
-	margin:0;
-	
+	margin: 0;
+
 }
 
 .nav {
-  overflow: hidden;
-  text-align: center;
-  color: #FF5959;
-  font-size: 19px;
-  background-color: #FFF1BD;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+	overflow: hidden;
+	text-align: center;
+	color: #FF5959;
+	font-size: 19px;
+	background-color: #FFF1BD;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
 }
 
 .main {
-  padding: 16px;
-  margin-top: 45px;
-  height: auto; /* Used in this example to enable scrolling */
+	padding: 16px;
+	margin-top: 45px;
+	height: auto;
+	/* Used in this example to enable scrolling */
+}
+
+a:link {
+	color: #31326F;
+
+	text-decoration: none;
+}
+
+a:visited {
+	color: #AC66CC;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FF0075;
+	text-decoration: none;
+}
+
+a:active {
+	color: yellow;
+	text-decoration: none;
 }
 
 footer {
 	width: 100%;
 	text-align: center;
 	background: #1E5128;
-	font-size: 20px;
+	font-size: 15px;
 	position: fixed;
 	left: 0px;
 	bottom: 0px
@@ -54,41 +76,19 @@ footer {
 	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
 }
 
-.answer {
-	padding: 0 0px;
-}
-
-details {
-	padding: 10px 0;
-}
-
-details[open] {
-	summary {
-		color: #F9276F;
-
-		&:before {
-			content: '[-] ';
-		}
-	}
+li:hover {
+	color: #FF0075;
 }
 
 summary {
 	cursor: pointer;
-	-webkit-user-select: none;
+}
 
-	&::-webkit-details-marker {
-		display: none;
-	}
+summary:hover {
+	color: blue;
+	font-weight: bolder;
+}
 
-	&:before {
-		content: '[+] ';
-	}
-
-	&:hover {
-		color: #F9276F;
-	}
-
-	&:focus {
-		outline: none;
-	}
+details {
+	padding: 5px 0;
 }
