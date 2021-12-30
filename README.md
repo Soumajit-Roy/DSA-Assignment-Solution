@@ -14,10 +14,9 @@ This is the Assignment Solutions Repository (Java)☕ of [`JAVA-DSA-BOOTCAMP`](h
 
 </div>
 <div align="center">
-
-[`Syllabus`](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/SYLLABUS.md)
-
-:fast_forward: :arrow_forward: [`Solutions`](https://soumajit-roy.github.io/DSA-Assignment-Solution/) :arrow_backward: :rewind:
+<a href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/SYLLABUS.md"><img alt="by me" src="https://i.ibb.co/QJ6SNfL/button-syllabus.png"></a> 
+<br></br>
+<a href="https://soumajit-roy.github.io/DSA-Assignment-Solution/"><img alt="by me" src="https://i.ibb.co/Gn0jJdg/button-assignment-solutions.png"></a> 
 
 
 </div>
