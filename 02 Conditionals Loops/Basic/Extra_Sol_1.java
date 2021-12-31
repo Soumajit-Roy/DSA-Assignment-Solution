@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
-public class Basic_Q7E_Sol {
+public class Extra_Sol_1 {
     public static void main(String[] args) {
         System.out.println("--------Area Calculator--------");
         System.out.println("Choose Which Area of You Want to Calculate \n 1 for Circle \n 2 for Triangle \n" +
