@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Basic_Q1_Sol {
+public class Basic_Q01_Sol {
     public static void main(String[] args) {
         //Q1. Area Of Circle Java Program
         System.out.println("Enter Radius of the circle");
