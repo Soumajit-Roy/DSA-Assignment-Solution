@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
-public class Basic_Q7_Sol {
+public class Basic_Q07_Sol {
     public static void main(String[] args) {
         //Q7. Area Of Equilateral Triangle
         System.out.println("Enter the side length of the Equilateral Triangle");

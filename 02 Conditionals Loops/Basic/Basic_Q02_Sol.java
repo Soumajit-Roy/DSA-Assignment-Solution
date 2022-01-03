@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Basic_Q2_Sol {
+public class Basic_Q02_Sol {
     public static void main(String[] args) {
         //Q2. Area Of Triangle
         System.out.println("Enter the Height and Base of the Triangle");

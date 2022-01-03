@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Basic_Q3_Sol {
+public class Basic_Q03_Sol {
     public static void main(String[] args) {
         //Q3. Area Of Rectangle
         System.out.println("Enter the Length and Width of the Rectangle");

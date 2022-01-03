@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Basic_Q8_Sol {
+public class Basic_Q08_Sol {
     public static void main(String[] args) {
         //Q8. Perimeter Of Circle
         System.out.println("Enter the Radius of the circle");

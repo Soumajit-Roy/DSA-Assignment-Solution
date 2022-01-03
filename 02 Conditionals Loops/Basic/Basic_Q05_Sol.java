@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Basic_Q5_Sol {
+public class Basic_Q05_Sol {
     public static void main(String[] args) {
         //Q5. Area Of Parallelogram
         System.out.println("Enter the Base and Height of the Parallelogram");

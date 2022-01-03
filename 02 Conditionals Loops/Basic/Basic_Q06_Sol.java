@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Basic_Q6_Sol {
+public class Basic_Q06_Sol {
     public static void main(String[] args) {
         //Q6. Area Of Rhombus
         System.out.println("Enter the two Diagonal length of the Rhombus");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Basic_Q9_Sol {
+public class Basic_Q09_Sol {
     public static void main(String[] args) {
         //Q9. Perimeter Of Equilateral Triangle.
         System.out.println("Enter the Side Length of the Triangle");

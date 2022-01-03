@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Basic_Q4_Sol {
+public class Basic_Q04_Sol {
     public static void main(String[] args) {
         //Q4. Area Of Isosceles Triangle
         System.out.println("Enter the Base and Height of the Isosceles Triangle");
