@@ -21,6 +21,7 @@ body {
 	top: 0;
 	width: 100%;
 	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    z-index: 100;
 }
 
 .main {
@@ -74,6 +75,7 @@ footer {
 	margin: 10px auto;
 	border-radius: 5px;
 	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    position: relative;
 }
 
 li:hover {
