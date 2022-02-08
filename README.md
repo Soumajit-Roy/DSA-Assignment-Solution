@@ -26,3 +26,4 @@ This is the Assignment Solutions Repository (Java)☕ of [`JAVA-DSA-BOOTCAMP`](h
 | Flow of Program |:white_check_mark:| 
 | First Java | :white_check_mark: | 
 | Conditionals Loops | :white_check_mark: |
+| Functions & Methods | :hourglass_flowing_sand: |
